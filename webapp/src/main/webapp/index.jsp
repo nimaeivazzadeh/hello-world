@@ -1,4 +1,5 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Halooooooooo Nima</h2>
-<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> Glad to see you here </h2>
+<h1> Hello and welcome to my  DevOps Project </h1>
+<h2> Nima is a master student in Cloud-based services and operations</h2>
+<h3>         He is really enthusastic about devops and operation </h2>
+
+<h2>         Han skal studere Phd etter master utdanning hans ferdig i master nivå  </h2>
