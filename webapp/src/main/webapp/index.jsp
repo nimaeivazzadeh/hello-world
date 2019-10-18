@@ -2,7 +2,7 @@
             
                   <h2> Automated software testing using Jenkins - docker container, Ansible </h2>
                      
-                                <h4> designed and implemented by Nima Eivazzadeh............................ <h4>
+                                <h4> designed and implemented by Nima Eivazzadeh<h4>
 				
 					<h3> test <h3>
 
