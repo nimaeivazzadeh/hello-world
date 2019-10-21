@@ -4,6 +4,6 @@
                      
                                 <h4> designed and implemented by Nima Eivazzadeh<h4>
 				
-						<h3> test <h3>.............................
+		      <h3> This is a new version of the website doing to show CI/CD pipeline <h3>
 
 			
